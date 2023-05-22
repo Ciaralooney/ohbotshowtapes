@@ -2,6 +2,7 @@
 [Click here](https://ohbot.co.uk/) to find out more about what ohbot is.
 
 I will post completed ohbot showtapes here. These will be coded in python using the ohbot library.
+If you want to see previous iterations then check out my [show tapes in progress repository](https://github.com/Ciaralooney/showtapesinprogress/tree/main)
 
 # Setting up
 Click on the device you have for instructions on how to set up ohbot initially.
